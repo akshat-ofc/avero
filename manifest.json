@@ -1,0 +1,21 @@
+{
+  "name": "Avero - To Do List",
+  "short_name": "Avero",
+  "start_url": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen"],
+  "background_color": "#ffffff",
+  "theme_color": "#58cc02",
+  "icons": [
+    {
+      "src": "./averologo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./averologo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
